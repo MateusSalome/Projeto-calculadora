@@ -6,6 +6,6 @@ Projeto feito durante meus estudos da linguagem JavaScript
 
 • Nesse projeto foram utilizadas as seguintes linguagens: HTML, CSS e JavaScript
 
-- HTML: uma linguagem de marcação
+- HTML: uma linguagem de marcação, criando a estrutura da página
 - CSS: para estilização da calculadora
-- JavaScript: para a criação das funções que permitem a manipulação de elementos da página
+- JavaScript: para a criação das funções que permitem a manipulação de elementos da página, permitindo a interatividade
